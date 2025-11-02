@@ -21,7 +21,7 @@ Built with **HTML, Tailwind CSS, JavaScript, and AOS**, this portfolio delivers 
 <p align="center">
   <img src="Screenshot_2-11-2025_223850_.jpeg" alt="Portfolio Screenshot 1"  style="border-radius: 12px;"/>
   <h5>2:</h5><br>
-  <img src="22.png" alt="Portfolio Screenshot 1"  style="border-radius: 12px;"/>
+  <img src="22.PNG" alt="Portfolio Screenshot 1"  style="border-radius: 12px;"/>
 </p>
 
 ---
