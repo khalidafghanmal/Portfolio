@@ -1,38 +1,60 @@
-# Portfolio Website 🌐
+<h1 align="center">✨ Personal Portfolio Website ✨</h1>
 
-![Portfolio Demo](path-to-your-gif.gif)  
-
-A **modern, responsive, and interactive personal portfolio website** built to showcase my projects, skills, and experience as a **Full-Stack Developer & Cybersecurity Enthusiast**.  
-
-This portfolio uses **HTML, Tailwind CSS, JavaScript, and AOS animations** to create smooth, engaging user experiences.
-
----
-
-## 🛠️ Technologies Used
-- **HTML5** – Semantic markup and structure  
-- **Tailwind CSS** – Modern utility-first styling  
-- **JavaScript (ES6)** – Dynamic interactions & animations  
-- **AOS (Animate On Scroll)** – Scroll-based animations for a lively UI  
-- **Responsive Design** – Works on desktop, tablet, and mobile  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/AOS%20Animations-000000?logo=javascript&logoColor=white" />
+</p>
 
 ---
 
-## ✨ Features
-- **Interactive Hero Section** – Engaging first impression with smooth animations  
-- **Animated Skills Section** – Skill bars with gradient fill and scroll-triggered animation  
-- **Projects Showcase** – Modern cards displaying projects with hover effects  
-- **Smooth Scroll Animations** – Thanks to AOS library  
-- **Clean, Responsive Layout** – Perfect for all screen sizes  
-- **Custom GIF Demo** – Visual preview of portfolio in action  
+## 🧠 Overview
+A **modern, responsive, and animated portfolio website** showcasing my **projects, skills, and experience** as a  
+💻 **Full-Stack Web Developer** & 🔐 **Cybersecurity Enthusiast**.  
+
+Built with **HTML, Tailwind CSS, JavaScript, and AOS**, this portfolio delivers a smooth, elegant browsing experience — optimized for both speed and style.
 
 ---
 
-## 🖥️ Screenshot / Demo
-![Portfolio GIF Demo](path-to-your-gif.gif)  
+## 🖼️ Preview
+
+<p align="center">
+  <img src="your-image-1.png" alt="Portfolio Screenshot 1" width="48%" style="border-radius: 12px;"/>
+  <img src="your-image-2.png" alt="Portfolio Screenshot 2" width="48%" style="border-radius: 12px;"/>
+</p>
 
 ---
 
-## 🚀 How to Run Locally
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
+## ⚙️ Technologies Used
+| Category | Stack |
+|-----------|--------|
+| **Frontend** | HTML5, Tailwind CSS, JavaScript |
+| **Animations** | AOS (Animate On Scroll) |
+| **Design** | Gradient backgrounds, Responsive layout, Custom transitions |
+| **Performance** | Lightweight, SEO-optimized, Fast loading |
+
+---
+
+## ✨ Key Features
+✅ Smooth scroll-based animations powered by **AOS**  
+✅ **Responsive design** for mobile, tablet, and desktop  
+✅ Modern **gradient skill bars** and animated sections  
+✅ **Interactive UI** with subtle transitions  
+✅ **Clean, minimalist, and professional layout**  
+✅ SEO-friendly meta and semantic markup  
+
+---
+
+## 🚀 Getting Started
+To run the project locally:
+
+```bash
+# Clone this repository
+git clone https://github.com/yourusername/portfolio.git
+
+# Open the folder
+cd portfolio
+
+# Open in browser
+start index.html
