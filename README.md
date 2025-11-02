@@ -32,8 +32,6 @@ Built with **HTML, Tailwind CSS, JavaScript, and AOS**, this portfolio delivers 
 | **Frontend** | HTML5, Tailwind CSS, JavaScript |
 | **Animations** | AOS (Animate On Scroll) |
 | **Design** | Gradient backgrounds, Responsive layout, Custom transitions |
-| **Performance** | Lightweight, SEO-optimized, Fast loading |
-
 ---
 
 ## ✨ Key Features
@@ -51,10 +49,9 @@ To run the project locally:
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/portfolio.git
-
+git clone https://github.com/khalidafghanmal/Portfolio
 # Open the folder
 cd portfolio
 
 # Open in browser
-start index.html
+open index.html
