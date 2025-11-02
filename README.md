@@ -10,8 +10,7 @@
 ---
 
 ## 🧠 Overview
-A **modern, responsive, and animated portfolio website** showcasing my **projects, skills, and experience** as a  
-💻 **Full-Stack Web Developer** & 🔐 **Cybersecurity Enthusiast**.  
+A **modern, responsive, and animated portfolio website** 
 
 Built with **HTML, Tailwind CSS, JavaScript, and AOS**, this portfolio delivers a smooth, elegant browsing experience — optimized for both speed and style.
 
@@ -21,6 +20,8 @@ Built with **HTML, Tailwind CSS, JavaScript, and AOS**, this portfolio delivers 
 
 <p align="center">
   <img src="Screenshot_2-11-2025_223850_.jpeg" alt="Portfolio Screenshot 1"  style="border-radius: 12px;"/>
+  <h5>2:</h5><br>
+  <img src="22.png" alt="Portfolio Screenshot 1"  style="border-radius: 12px;"/>
 </p>
 
 ---
