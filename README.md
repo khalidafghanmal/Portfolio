@@ -20,7 +20,7 @@ Built with **HTML, Tailwind CSS, JavaScript, and AOS**, this portfolio delivers 
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="Screenshot_2-11-2025_223850_.jpeg" alt="Portfolio Screenshot 1" width="48%" style="border-radius: 12px;"/>
+  <img src="Screenshot_2-11-2025_223850_.jpeg" alt="Portfolio Screenshot 1"  style="border-radius: 12px;"/>
 </p>
 
 ---
